@@ -1,5 +1,5 @@
 
-  # test [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+  # testProject [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
   ## Table of Contents
   1. [Description](#Description)
@@ -11,24 +11,24 @@
   7. [Questions](#Questions)
 
   ## Description
-  test
+  testDescription
 
   ## Installation
-  test
+  testInstallationSteps
 
   ## Usage
-  test
+  testUsageSteps
 
   ## Contributing
-  test
+  testUser
 
   ## Tests
-  test
+  testInstructions
 
   ## License
   (https://opensource.org/licenses/MIT)
   
   ## Questions
-  https://github.com/test
+  https://github.com/testUser
 
-  Please email test@abc.com for questions.
+  Please email testUser@abc.com for questions.
