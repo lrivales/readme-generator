@@ -44,7 +44,7 @@ function renderLicenseSection(license) {
       licenseSection = '(https://www.gnu.org/licenses/gpl-3.0)';
       return licenseSection;
     default:
-      licenseSection = '';
+      licenseSection = 'None';
       return licenseSection;
   }
 };
@@ -72,6 +72,8 @@ function generateMarkdown(data) {
   ## License
   ${renderLicenseSection(data.license)}
   
+  ## Questions
+  https://github.com/${data.github}
 `;
 }
 

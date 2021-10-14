@@ -1,5 +1,5 @@
 
-  # test [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)]
+  # test [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
   ## Description
   test
@@ -17,5 +17,7 @@
   test
 
   ## License
-  (https://www.gnu.org/licenses/gpl-3.0)
+  (https://opensource.org/licenses/MIT)
   
+  ## Questions
+  https://github.com/test

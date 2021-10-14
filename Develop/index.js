@@ -19,6 +19,11 @@ const questions = () => {
     return inquirer.prompt([
         {
             type: 'input',
+            name: 'github',
+            message: 'What is your GitHub username?'
+        },
+        {
+            type: 'input',
             name: 'title',
             message: 'What is the name of your project?',
         },
