@@ -74,6 +74,8 @@ function generateMarkdown(data) {
   
   ## Questions
   https://github.com/${data.github}
+
+  Please email ${data.email} for questions.
 `;
 }
 
