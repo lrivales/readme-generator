@@ -15,7 +15,8 @@
   This a README.md generator.  This can be used to create README.md files for any project that will be uploaded to GitHub.
 
   ## Installation
-  Run ‘git clone’ of this repository to your local directory.
+  1. Run ‘git clone’ of this repository to your local directory.
+  2. From the directory where you cloned the repository, run 'npm init' to download all required packages.
 
   ## Usage
   1. Install Node.js on your local machine (https://nodejs.org/en/).
