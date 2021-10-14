@@ -1,7 +1,7 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
-const generateMarkdown = require('./utils/generateMarkdown');
+const generateMarkdown = require('./utils/generateMarkdown.js');
 
 // TODO: Create an array of questions for user input
 // const questions = [
@@ -39,13 +39,18 @@ const questions = () => {
         },
         {
             type: 'input',
-            name: 'contributors',
+            name: 'contributing',
             message: 'Please enter contributors to this project.'
         },
         {
             type: 'input',
-            name: 'test',
+            name: 'tests',
             message: 'Please enter testing instructions.'
+        },
+        {
+            type: 'list',
+            name: 'license',
+            choices: ['MIT', 'GNU', 'None']
         }
     ])
 };
@@ -65,6 +70,7 @@ function init() {
                 console.log(err);
                 return;
             }
+            console.log('README.md has been created.')
         });
     });
 }
