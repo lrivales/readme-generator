@@ -2,13 +2,13 @@
   # test [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
   ## Table of Contents
-  [Description](#Description)
-  [Installation](#Installation)
-  [Usage](#Usage)
-  [Contributing](#Contributing)
-  [Tests](#Tests)
-  [License](#License)
-  [Questions](#Questions)
+  1. [Description](#Description)
+  2. [Installation](#Installation)
+  3. [Usage](#Usage)
+  4. [Contributing](#Contributing)
+  5. [Tests](#Tests)
+  6. [License](#License)
+  7. [Questions](#Questions)
 
   ## Description
   test
