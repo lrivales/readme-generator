@@ -1,5 +1,5 @@
 
-  # testProject [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+  # Test Project [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
   ## Table of Contents
   1. [Description](#Description)
@@ -11,19 +11,21 @@
   7. [Questions](#Questions)
 
   ## Description
-  testDescription
+  Test Description
 
   ## Installation
-  testInstallationSteps
+  1. Step A
+  2. Step B
 
   ## Usage
-  testUsageSteps
+  1. Step A
+  2. Step B
 
   ## Contributing
-  testUser
+  NA
 
   ## Tests
-  testInstructions
+  NA
 
   ## License
   (https://opensource.org/licenses/MIT)
